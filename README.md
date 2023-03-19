@@ -4,7 +4,7 @@ Title: Ultrasound Image Pregnancy Analyzer
 
 
 Team members:
-Andrew Ferrer (alf108), Andy Huang (GitHubUserB)
+Andrew Ferrer (alf108), Andy Huang (ahuang213)
 
 Project decription:
 
