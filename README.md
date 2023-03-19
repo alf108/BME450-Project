@@ -1,4 +1,4 @@
-# BME-450-Project-AA
+# BME450-Project
 
 Title
 
